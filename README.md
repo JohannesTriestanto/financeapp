@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-**Finance Mate** merupakan aplikasi mobile berbasis **Flutter** yang dibuat untuk memenuhi tugas **Mobile Programming 2 – Pertemuan 7 (Advance Widget)**.
+**Finance Mate** merupakan aplikasi mobile berbasis **Flutter** yang dibuat untuk memenuhi tugas **Pemrograman Mobile 2 – Pertemuan 7 (Advance Widget)**.
 
 Aplikasi ini dikembangkan berdasarkan project **FinnanceApp** yang diberikan oleh dosen. Pengembangan dilakukan dengan membuat project Flutter baru bernama **financeapp**, kemudian menyalin kode dari folder `lib` dan melakukan beberapa pengembangan pada tampilan aplikasi sesuai dengan instruksi tugas.
 
@@ -20,7 +20,6 @@ Beberapa pengembangan yang dilakukan pada project ini adalah:
 4. Menambahkan **background image** pada halaman utama aplikasi.
 5. Mempertahankan dan menerapkan konsep **reusable widget**.
 6. Menggunakan reusable widget untuk beberapa komponen, yaitu:
-
    * ATM Card
    * Grid Menu Item
    * Transaction Item
