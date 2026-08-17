@@ -125,6 +125,6 @@ Pengembangan yang dilakukan meliputi perubahan **color theme**, penambahan **dua
 
 **Johannes Triestanto**
 
-* **Mata Kuliah:** Mobile Programming 2
+* **Mata Kuliah:** Pemrograman Mobile 2
 * **Pertemuan:** 7 – Advance Widget
 * **Dosen Pengampu:** Niken Riyanti, S.T., M.Kom.
