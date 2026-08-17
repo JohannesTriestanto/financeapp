@@ -6,7 +6,7 @@
 
 Aplikasi ini dikembangkan berdasarkan project **FinnanceApp** yang diberikan oleh dosen. Pengembangan dilakukan dengan membuat project Flutter baru bernama **financeapp**, kemudian menyalin kode dari folder `lib` dan melakukan beberapa perubahan pada tampilan aplikasi sesuai dengan instruksi tugas.
 
-Pada pengembangan ini, aplikasi mengalami perubahan pada **color theme**, penambahan **2 ATM card**, serta peningkatan desain **User Interface (UI)** agar terlihat lebih menarik dan modern. Selain itu, aplikasi juga menggunakan **reusable widget** untuk beberapa komponen seperti ATM Card, Grid Menu, dan Transaction Item.
+Pada pengembangan ini, aplikasi mengalami perubahan pada **color theme**, penambahan **2 ATM Card**, serta peningkatan desain **User Interface (UI)** agar terlihat lebih menarik dan modern. Selain itu, aplikasi juga menggunakan **reusable widget** untuk beberapa komponen seperti ATM Card, Grid Menu, dan Transaction Item.
 
 Aplikasi **Finance Mate** menampilkan informasi kartu, menu kategori keuangan, serta daftar transaksi terbaru. Aplikasi juga memiliki **Splash Screen dengan animasi** sebelum pengguna masuk ke halaman utama.
 
@@ -15,7 +15,7 @@ Aplikasi **Finance Mate** menampilkan informasi kartu, menu kategori keuangan, s
 Beberapa pengembangan yang dilakukan pada project ini adalah:
 
 1. Mengubah **color theme** aplikasi dari tampilan awal.
-2. Menambahkan **2 ATM card**, sehingga aplikasi memiliki total **4 ATM card**.
+2. Menambahkan **2 ATM Card**, sehingga aplikasi memiliki total **4 ATM Card**.
 3. Mengubah desain **User Interface (UI)** agar lebih menarik dan modern.
 4. Menambahkan **background image** pada halaman aplikasi.
 5. Mempertahankan penggunaan **reusable widget**.
@@ -27,7 +27,7 @@ Beberapa pengembangan yang dilakukan pada project ini adalah:
 7. Menambahkan animasi pada **Splash Screen**.
 8. Menampilkan beberapa kategori keuangan melalui **Quick Menu**.
 9. Menampilkan daftar **Recent Transactions**.
-10. Menggunakan desain kartu dengan warna yang berbeda untuk membedakan setiap ATM card.
+10. Menggunakan desain kartu dengan warna yang berbeda untuk membedakan setiap ATM Card.
 
 ## Tampilan Aplikasi
 
@@ -43,7 +43,7 @@ Home Screen merupakan halaman utama aplikasi yang menampilkan ucapan pengguna, d
 
 ### 3. ATM Cards
 
-Pada bagian **My Cards**, aplikasi menampilkan empat ATM card dengan desain dan warna yang berbeda. Penambahan dua ATM card merupakan salah satu bagian dari instruksi tugas.
+Pada bagian **My Cards**, aplikasi menampilkan empat ATM Card dengan desain dan warna yang berbeda. Penambahan dua ATM Card merupakan salah satu bagian dari instruksi tugas.
 
 ![ATM Cards](screenshots/atm_cards.png)
 
@@ -55,7 +55,7 @@ Bagian **Quick Menu** digunakan untuk menampilkan beberapa kategori transaksi, y
 
 ### 5. Recent Transactions
 
-Bagian **Recent Transactions** menampilkan daftar transaksi keuangan, seperti Coffee Shop, Grab Ride, Gym Membership, Movie Ticket, dan Salary.
+Bagian **Recent Transactions** menampilkan daftar transaksi keuangan, seperti **Coffee Shop, Grab Ride, Gym Membership, Movie Ticket, dan Salary**.
 
 ![Recent Transactions](screenshots/recent_transactions.png)
 
@@ -113,7 +113,7 @@ financeapp/
 
 ## Kesimpulan
 
-**Finance Mate** merupakan hasil pengembangan dari project **FinnanceApp** dengan menerapkan konsep **Advance Widget**, khususnya penggunaan reusable widget dan pengembangan tampilan antarmuka. Pengembangan dilakukan dengan mengubah tema warna, menambahkan dua ATM card, memperbaiki desain UI, menambahkan background image, serta mempertahankan komponen reusable widget yang terdapat pada project.
+**Finance Mate** merupakan hasil pengembangan dari project **FinnanceApp** dengan menerapkan konsep **Advance Widget**, khususnya penggunaan reusable widget dan pengembangan tampilan antarmuka. Pengembangan dilakukan dengan mengubah tema warna, menambahkan dua ATM Card, memperbaiki desain UI, menambahkan background image, serta mempertahankan komponen reusable widget yang terdapat pada project.
 
 ## Author
 
