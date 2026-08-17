@@ -41,25 +41,25 @@ Screenshot Splash Screen tidak disertakan karena tampilan Splash Screen hanya mu
 
 Home Screen merupakan halaman utama aplikasi yang menampilkan ucapan pengguna, bagian **My Cards**, **Quick Menu**, dan **Recent Transactions**. Halaman utama juga menggunakan perubahan color theme, desain UI yang baru, serta background image untuk memberikan tampilan yang lebih menarik.
 
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](screenshot/home_screen.png)
 
 ### 3. ATM Cards
 
 Pada bagian **My Cards**, aplikasi menampilkan **empat ATM Card** dengan desain dan warna yang berbeda. Penambahan dua ATM Card merupakan salah satu pengembangan yang dilakukan sesuai dengan instruksi tugas.
 
-![ATM Cards](screenshots/atm_cards.png)
+![ATM Cards](screenshot/atm_cards.png)
 
 ### 4. Quick Menu
 
 Bagian **Quick Menu** digunakan untuk menampilkan beberapa kategori keuangan. Pada aplikasi ini terdapat empat kategori, yaitu **Health, Travel, Food, dan Event**. Setiap kategori ditampilkan menggunakan reusable widget `GridMenuItem`.
 
-![Quick Menu](screenshots/quick_menu.png)
+![Quick Menu](screenshot/quick_menu.png)
 
 ### 5. Recent Transactions
 
 Bagian **Recent Transactions** digunakan untuk menampilkan daftar transaksi keuangan terbaru. Transaksi yang ditampilkan meliputi **Coffee Shop, Grab Ride, Gym Membership, Movie Ticket, dan Salary**. Setiap transaksi ditampilkan menggunakan reusable widget `TransactionItem`.
 
-![Recent Transactions](screenshots/recent_transactions.png)
+![Recent Transactions](screenshot/recent_transactions.png)
 
 ## Teknologi yang Digunakan
 
