@@ -34,7 +34,7 @@ Beberapa pengembangan yang dilakukan pada project ini adalah:
 
 Splash Screen merupakan halaman awal aplikasi yang menampilkan nama **Finance Mate** dengan efek **fade animation**. Animasi tersebut diterapkan menggunakan `AnimationController`, `CurvedAnimation`, dan `FadeTransition`. Setelah sekitar tiga detik, aplikasi secara otomatis berpindah ke halaman **Home Screen**.
 
-![Splash Screen](screenshots/splash_screen.png)
+![Splash Screen](screenshot/splash_screen.png)
 
 Gambar menunjukkan tampilan awal aplikasi **Finance Mate** sebelum pengguna masuk ke halaman utama. Pada tampilan tersebut terlihat nama aplikasi **Finance Mate** dengan efek fade animation sebagai salah satu pengembangan aplikasi pada tugas Pertemuan 7 **Advance Widget**.
 
